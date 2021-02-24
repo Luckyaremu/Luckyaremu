@@ -8,8 +8,6 @@ I will graduate from [Microverse](https://www.microverse.org/) in a couple of we
 
 Currently, I’m exploring new opportunities. 
 
-This is my [Portfolio](https://aremulucky.com) :desktop_computer:.
-
 <div>
 <img align="center" src='https://github-readme-stats.vercel.app/api?username=Luckyaremu&count_private=true&show_icons=true&theme=great-gatsby' alt='Lucky's github stats'>
 </div>
