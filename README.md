@@ -6,7 +6,7 @@ I enjoy creating applications, teaching, and helping people in my community when
 
 I will graduate from [Microverse](https://www.microverse.org/) in a couple of weeks, a remote full-stack development program with a focus on git-standup and peer to peer programming. Just in the past months, I’ve built projects that solves problems with HTML5, CSS3, JAVA SCRIPT, REACT & REDUX, RUBY, RUBY ON RAILS. etc and completed alot coding challenges :muscle:. 
 
-Currently, I’m exploring new opportunities. 
+Currently, I’m available for hire. 
 
 <div>
 <img align="center" src='https://github-readme-stats.vercel.app/api?username=Luckyaremu&count_private=true&show_icons=true&theme=great-gatsby' alt='Lucky's github stats'>
